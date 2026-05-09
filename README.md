@@ -87,3 +87,12 @@ resume_screening_project/
 │   └── style.css
 │
 └── screenshots/
+Future Improvements
+BERT Resume Matching
+Semantic Search
+PostgreSQL Database
+Docker Deployment
+JWT Authentication
+AI Resume Summarization
+Cloud Deployment
+Recruiter Analytics Dashboard
